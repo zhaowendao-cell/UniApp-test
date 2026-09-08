@@ -1,0 +1,37 @@
+[{
+		"listData": [{
+				"leftsrc": "/static/icon/Download.png",
+				"lefttitle": "我的下载",
+				"righttitle": "33",
+				"rightsrc": "/static/icon/chevron-right.png"
+			},
+			{
+				"leftsrc": "/static/icon/Setting.png",
+				"lefttitle": "系统设置",
+				"righttitle": "",
+				"rightsrc": "/static/icon/chevron-right.png"
+			}
+		]
+	},
+	{
+		"listData": [{
+				"leftsrc": "/static/icon/PersonalProfile.png",
+				"lefttitle": "个人资料",
+				"righttitle": "",
+				"rightsrc": "/static/icon/chevron-right.png"
+			},
+			{
+				"leftsrc": "/static/icon/Contact.png",
+				"lefttitle": "联系客服",
+				"righttitle": "",
+				"rightsrc": "/static/icon/chevron-right.png"
+			},
+			{
+				"leftsrc": "/static/icon/AboutUs.png",
+				"lefttitle": "关于我们",
+				"righttitle": "",
+				"rightsrc": "/static/icon/chevron-right.png"
+			}
+		]
+	}
+]
